@@ -1,1 +1,1 @@
-Basic clock implementation showing current time and date, updating every second. Uses built-in Date object and intervals, styled with CSS.
+Added App.css with blue background and basic styling
